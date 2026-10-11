@@ -1,6 +1,6 @@
 # Mo' Claudius
 
-**Sr. Full-Stack Engineer**
+### Sr. Full-Stack Engineer
 
 I build software for a living, and I write about architecture and building software that lasts.
 
